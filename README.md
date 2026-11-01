@@ -5,6 +5,6 @@
 > 目前為構想驗證階段，情境圖是概念圖，H5 試玩與 Google Play 版本都尚未完成。
 
 - [遊戲企劃書](GAME_DESIGN.md)
-- [畫線救貓情境圖](assets/draw-to-rescue-concept.png)
+- [畫線救貓情境圖](assets/draw-to-rescue-concept.jpg)
 
 首個目標是完成三關 H5 原型，測試畫線、物理互動和重試是否有趣，再評估擴充與 Android 發行。公開倉庫預計放企劃、可公開素材及試玩成品，原始開發內容放在獨立私有倉庫。
