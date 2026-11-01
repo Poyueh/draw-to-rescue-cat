@@ -1,2 +1,10 @@
-# draw-to-rescue-cat
-Draw to Rescue Cat — game concept and public releases
+# 亂畫一通救貓咪
+
+用手指畫一筆歪歪的線，幫小貓過水坑、接小魚、躲大雨。成功靠創意，失敗也要好笑。
+
+> 目前為構想驗證階段，情境圖是概念圖，H5 試玩與 Google Play 版本都尚未完成。
+
+- [遊戲企劃書](GAME_DESIGN.md)
+- [畫線救貓情境圖](assets/draw-to-rescue-concept.png)
+
+首個目標是完成三關 H5 原型，測試畫線、物理互動和重試是否有趣，再評估擴充與 Android 發行。公開倉庫預計放企劃、可公開素材及試玩成品，原始開發內容放在獨立私有倉庫。
